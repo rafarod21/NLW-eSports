@@ -1,5 +1,7 @@
+<!-- -->
 <p align="center">
   <br>
+  Logo em andamento :hammer_and_wrench:
   <!--
     <Img src="https://github.com/rafarod21/FeedWidget/blob/main/git-assets/logo.svg" width=700/>    
    -->
@@ -34,18 +36,14 @@
 <p align="justify">
 Este é um projeto desenvolvido na Next Level Week #9 eSports(NLW eSports), evento organizado pela Rocketseat :rocket:.
 Tal projeto é composto por backend, frontend web e frontend mobile.
-Seu objetivo é enviar feedbacks sobre problemas, ideias ou qualquer outro assunto sobre o site. <br> <br>
-É uma aplicação relativamente simples, mas o foco nesse evento foi apredender vários conceitos de programação e arquitetura de projetos para fazer uma aplicação que, embora simples, seja o mais profissional possível. <br> <br>
-Essa aplicação possui navegação pelo teclado (acessibilidade), responsividade, testes unitários e aplicação dos princípios de SOLID no backend.
+Seu objetivo é ...
 </p>
 
 ## Funcionalidades :stars:
 
-✔️ Envio de feedback
+✔️ Cadastrar anúncio de jogador em um jogo
 
-✔️ Tirar screenshot da tela
-
-✔️ Envio do feedback para o e-mail do dono do site (no momento interceptado pelo Mailtrap)
+✔️ Listar jogadores disponíveis para fazer Duo
 
 ## Layout :milky_way:
 
@@ -53,29 +51,37 @@ Essa aplicação possui navegação pelo teclado (acessibilidade), responsividad
   💻 Desktop 💻
 </h3>
 <p align="center">
+  Em andamento :hammer_and_wrench:
+  <!--
   <Img src="https://github.com/rafarod21/FeedWidget/blob/main/git-assets/FeedWidget-web1.jpeg" width=400>
   <Img src="https://github.com/rafarod21/FeedWidget/blob/main/git-assets/FeedWidget-web2.jpeg" width=400>
   <Img src="https://github.com/rafarod21/FeedWidget/blob/main/git-assets/FeedWidget-web3.jpeg" width=400>
   <Img src="https://github.com/rafarod21/FeedWidget/blob/main/git-assets/FeedWidget-web4.jpeg" width=400>
+  -->
 </p>
   
 <h3 align="center">
   :iphone: Mobile :iphone:
 </h3>
 <p align="center">
+  Em andamento :hammer_and_wrench:
+  <!-- 
   <Img src="https://github.com/rafarod21/FeedWidget/blob/main/git-assets/FeedWidget-mobile1.jpeg" width=auto height=400>
   <Img src="https://github.com/rafarod21/FeedWidget/blob/main/git-assets/FeedWidget-mobile2.jpeg" width=auto height=400>
+  -->
 </p>
 
 ## Backend :card_file_box:
 
-Para o backend foi utilizado Node.js e o SQLite como banco de dados em desenvolvimento e o PostgreSQL em produção. Foi utilizado o Prisma para conexão com o banco.
+Para o backend foi utilizado Node.js e o SQLite como banco de dados. Foi utilizado o Prisma para conexão com o banco.
 
 ## Veja você mesmo :arrow_forward:
-    
-#### :small_blue_diamond: Deploy Vercel: [FeedWidget](https://feed-widget-nine.vercel.app)
 
 #### :small_blue_diamond: Na própria máquina - Passo-a-passo
+
+Em andamento :hammer_and_wrench:
+
+<!-- 
     
 ##### Passo 1: Clonando o repositório
 ```bash
@@ -156,7 +162,9 @@ yarn dev
 
 ##### Passo 10: Vizualizando o projeto
 Acesse: http://localhost:3000
-    
+
+-->
+
 ## Tecnologias :books:
 
   - [ReactJS](https://pt-br.reactjs.org)
@@ -165,8 +173,8 @@ Acesse: http://localhost:3000
   - [Typescript](https://www.typescriptlang.org)
   - [Prisma](https://www.prisma.io)
   - [Vite](https://vitejs.dev)
-  - [Jest](https://jestjs.io/pt-BR)
   - [Tailwind CSS](https://tailwindcss.com)
+  - [Radix UI](https://www.radix-ui.com)
     
 ## Desenvolvedores/Contribuintes :octocat:
 
