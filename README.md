@@ -168,13 +168,14 @@ Acesse: http://localhost:3000
 ## Tecnologias :books:
 
   - [ReactJS](https://pt-br.reactjs.org)
-  - [React Native](https://reactnative.dev)
-  - [Node.js](https://nodejs.org)
   - [Typescript](https://www.typescriptlang.org)
-  - [Prisma](https://www.prisma.io)
   - [Vite](https://vitejs.dev)
   - [Tailwind CSS](https://tailwindcss.com)
   - [Radix UI](https://www.radix-ui.com)
+  - [React Native](https://reactnative.dev)
+  - [Expo](https://expo.dev)
+  - [Node.js](https://nodejs.org)
+  - [Prisma](https://www.prisma.io)
     
 ## Desenvolvedores/Contribuintes :octocat:
 
