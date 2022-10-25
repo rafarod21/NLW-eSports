@@ -1,10 +1,7 @@
 <!-- -->
 <p align="center">
   <br>
-  Logo em andamento :hammer_and_wrench:
-  <!--
-    <Img src="https://github.com/rafarod21/FeedWidget/blob/main/git-assets/logo.svg" width=700/>    
-   -->
+    <Img src="https://github.com/rafarod21/NLW-eSports/blob/main/git-assets/logo-nlw-esports.svg" />    
   
   <h3 align="center"> Encontre seu Duo :video_game: </h3>
   
