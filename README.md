@@ -48,24 +48,17 @@ Seu objetivo é ...
   💻 Desktop 💻
 </h3>
 <p align="center">
-  Em andamento :hammer_and_wrench:
-  <!--
-  <Img src="https://github.com/rafarod21/FeedWidget/blob/main/git-assets/FeedWidget-web1.jpeg" width=400>
-  <Img src="https://github.com/rafarod21/FeedWidget/blob/main/git-assets/FeedWidget-web2.jpeg" width=400>
-  <Img src="https://github.com/rafarod21/FeedWidget/blob/main/git-assets/FeedWidget-web3.jpeg" width=400>
-  <Img src="https://github.com/rafarod21/FeedWidget/blob/main/git-assets/FeedWidget-web4.jpeg" width=400>
-  -->
+  <Img src="https://github.com/rafarod21/NLW-eSports/blob/main/git-assets/webHome.jpeg" width=400>
+  <Img src="https://github.com/rafarod21/NLW-eSports/blob/main/git-assets/webModal.jpeg" width=400>
 </p>
   
 <h3 align="center">
   :iphone: Mobile :iphone:
 </h3>
 <p align="center">
-  Em andamento :hammer_and_wrench:
-  <!-- 
-  <Img src="https://github.com/rafarod21/FeedWidget/blob/main/git-assets/FeedWidget-mobile1.jpeg" width=auto height=400>
-  <Img src="https://github.com/rafarod21/FeedWidget/blob/main/git-assets/FeedWidget-mobile2.jpeg" width=auto height=400>
-  -->
+  <Img src="https://github.com/rafarod21/NLW-eSports/blob/main/git-assets/mobileHome.jpeg" width=auto height=400>
+  <Img src="https://github.com/rafarod21/NLW-eSports/blob/main/git-assets/mobileGame.jpeg" width=auto height=400>
+  <Img src="https://github.com/rafarod21/NLW-eSports/blob/main/git-assets/mobileDiscord.jpeg" width=auto height=400>
 </p>
 
 ## Backend :card_file_box:
