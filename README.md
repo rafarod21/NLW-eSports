@@ -68,19 +68,15 @@ Para o backend foi utilizado Node.js e o SQLite como banco de dados. Foi utiliza
 ## Veja você mesmo :arrow_forward:
 
 #### :small_blue_diamond: Na própria máquina - Passo-a-passo
-
-Em andamento :hammer_and_wrench:
-
-<!-- 
     
 ##### Passo 1: Clonando o repositório
 ```bash
-git clone https://github.com/rafarod21/FeedWidget.git
+git clone https://github.com/rafarod21/NLW-eSports.git
 ```
     
 ##### Passo 2: Acessando a pasta do backend do projeto
 ```bash
-cd FeedWidget/server
+cd NLW-eSports/server
 ```
     
 ##### Passo 3: Instalando as dependências do backend com npm ou Yarn
@@ -91,32 +87,8 @@ npm install
 # Utilizando Yarn
 yarn
 ```
-
-##### Passo 4: Configurando o banco de dados local
-
-- Crie um arquivo ".env" na raiz do projeto, copie o conteúdo a seguir e cole-o dentro desse arquivo
-```bash
-DATABASE_URL="file:./dev.db"
-```
-- Dentro da pasta prisma:
-    - Delete a pasta "migrations"
-    - Delete arquivo "dev.db"
-    - Dentro do arquivo "schema.prisma", altere o valor da variável "provider" dentro de "datasource db" para "sqlite"
     
-##### Passo 5: Executando as migrations do prisma
-```bash
-# Utilizando npm
-npx prisma migrate dev
-
-# Utilizando Yarn
-yarn prisma migrate dev
-```
-- Quando aparecer a pergunta "Enter a name for the new migration: »" digite:
-```bash
-create_feedbacks
-```
-    
-##### Passo 6: Executando o backend do projeto com npm ou Yarn
+##### Passo 4: Executando o backend do projeto com npm ou Yarn
 ```bash
 # Utilizando npm
 npm run dev
@@ -125,9 +97,9 @@ npm run dev
 yarn dev
 ```
     
-##### Passo 7: EM OUTRO TERMINAL, acesse a pasta do frontend do projeto
+##### Passo 5: EM OUTRO TERMINAL, acesse a pasta do frontend do projeto
 ```bash
-cd FeedWidget/web
+cd NLW-eSports/web
 ```
     
 ##### Passo 8: Instalando as dependências do frontend com npm ou Yarn
@@ -153,8 +125,6 @@ yarn dev
 ##### Passo 10: Vizualizando o projeto
 Acesse: http://localhost:3000
 
--->
-
 ## Tecnologias :books:
 
   - [ReactJS](https://pt-br.reactjs.org)
@@ -172,7 +142,7 @@ Acesse: http://localhost:3000
 <img src="https://avatars0.githubusercontent.com/u/39251153?s=460&u=b18964e9a5e2c3c1ef9bc74ae8c35b11095c841b&v=4" width=115><br>
 <a aria-label="LinkedIn - Rafael Rodrigues" href="https://www.linkedin.com/in/rafael-montrezol-942a60170">
     <img src="https://img.shields.io/static/v1?logo=linkedin&label=LinkedIn&message=Rafael%20Rodrigues&color=00A0DC&style=flat&labelColor=0077B5"> 
-</a>
+</a><br>
 <a aria-label="GitHub - Rafael Rodrigues" href="https://github.com/rafarod21">
     <img alt="GitHub - Rafael Rodrigues" src="https://img.shields.io/static/v1?logo=github&label=GitHub&message=Rafael%20Rodrigues&color=2FBB4F&style=flat&labelColor=211F1F"></img>
 </a>
