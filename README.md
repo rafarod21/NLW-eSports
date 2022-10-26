@@ -33,7 +33,7 @@
 <p align="justify">
 Este é um projeto desenvolvido na Next Level Week #9 eSports(NLW eSports), evento organizado pela Rocketseat :rocket:.
 Tal projeto é composto por backend, frontend web e frontend mobile.
-Seu objetivo é ...
+Seu objetivo é conectar jogadores para que possam jogar seus jogos favoritos juntos.
 </p>
 
 ## Funcionalidades :stars:
